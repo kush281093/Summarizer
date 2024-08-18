@@ -1,3 +1,10 @@
 ENGLISH = "English"
 SPANISH = "Spanish"
 FRENCH =  "French"
+
+GPT_MODEL = "gpt-3.5-turbo"
+
+TEMP = 0.5
+
+TRANSCRIPT_TOKENS = 1000
+ANSWER_TOKENS = 150
